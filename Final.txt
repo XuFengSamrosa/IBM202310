@@ -1,0 +1,44 @@
+1.Which of these is a database query language?
+SQL
+2.Which of these is not a machine learning or deep learning library for Python?
+NumPy
+3.What type of model would you use if you wanted to find the relationship between a set of variables?
+Classification model
+4.Data governance can also be called?
+Data asset management
+5.What is a great alternative to Jupyter Notebooks when programming in R?
+RStudio
+6.Jupyter Notebooks is the tool most R developers use.
+No
+7.Storing data in tables is a function that RStudio provides.
+No
+8.Which of the following statements about Jupyter Notebook is correct?
+Jupyter Notebook supports the Visualization of data in charts.
+9.Which one of these libraries is widely used for data manipulation in R?
+dplyr
+10.Which feature  of GitHub is a way of proposing changes to main branch?
+Pull Request
+11.Which of the following is a lightweight tool built from Jupyterlab components?
+Jupyterlite
+12.Which among the following is not a feature of Googlecolab?
+Upload and share with setup and installation
+13.Is Keras a machine learning or deep learning library for Python?
+Yes
+14.What problem(s) are targeted by supervised machine learning?
+Regression and Classification problems
+15.Which of the following are true about Data Asset Management? 
+All of the above
+16.RStudio is the tool most R developers use.
+Yes
+17.Which of the following functions does RStudio provide?
+Editing and execution of R code.
+18.What does the acronym “Jupyter” mean in Jupyter Notebooks?
+Julia, Python and R
+19.What is the  purpose of ggplot library  in R?
+Data Visualization
+20.Which of these options is  a devops platform delivered as a single application
+Gitlab
+21.Which among the following is not a feature of  Jupyterlite ?
+Does not execute in browser
+22.Which among  the following is a cloud based jupyter notebook which can be saved on Google drive?
+GoogleColab
